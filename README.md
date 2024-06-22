@@ -1,2 +1,2 @@
 # mygitprojects
-This is a private repository specifically made for my personal tasks & projects.
+This is a private repository specifically made for my java's tasks & projects.
