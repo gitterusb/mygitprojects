@@ -3,6 +3,7 @@ import java.util.Scanner;
 public class OnlineQuiz {
     private String[][] questions = {
         {"What is the purpose of the 'if' statement in Java?", "To declare a variable", "To handle exceptions", "To make a decision based on a condition", "To loop through a block of code"},
+        
         {"What is the purpose of the 'switch' statement in Java?", "To declare a variable", "To handle exceptions", "To make a decision based on multiple conditions", "To loop through a block of code"},
 
         {"How do you get user input in Java?", "Using the Scanner class", "Using the BufferedReader class", "Using the InputStreamReader class", "Using the System.in class"},
